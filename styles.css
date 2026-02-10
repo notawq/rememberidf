@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    color: #333;
+    padding: 1rem;
+}
+header h1 {
+    text-align: center;
+}
+.soldier-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0.8rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.soldier-card h2 {
+    margin: 0 0 0.4rem;
+}
