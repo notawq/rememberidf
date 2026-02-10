@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <title>זיכרון לוחמים</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>לוחמי צה״ל שנפלו במלחמה</h1>
+    </header>
+    <main id="soldiers-list"></main>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
